@@ -1,8 +1,17 @@
 <template>
   <div id="app">
+    <HearderBar></HearderBar>
     <router-view/>
   </div>
 </template>
+
+<script>
+    import HearderBar from './components/HearderBar.vue'
+    export default {
+        components: { HearderBar },
+        HearderBar
+    }
+</script>
 
 <style lang="scss">
 #app {

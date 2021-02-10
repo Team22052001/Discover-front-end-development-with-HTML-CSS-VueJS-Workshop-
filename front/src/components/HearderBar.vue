@@ -1,16 +1,13 @@
 <template>
     <div>
-    <html>
-    </html>
+        <html>
+            <p>Resumer du Workshop: C'est dur</p>
+        </html>
     </div>
 </template>
 
 <script>
-    export default {
-
-    }
 </script>
 
 <style lang="scss" scoped>
-
 </style>

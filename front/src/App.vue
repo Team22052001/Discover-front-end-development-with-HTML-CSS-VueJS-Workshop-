@@ -26,7 +26,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: rgb(0, 0, 0);
   position: fixed;
   top: 0;
   width: 100%;
@@ -38,7 +38,7 @@ li {
 
 li a {
   display: block;
-  color: white;
+  color: rgb(255, 255, 255);
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -49,6 +49,6 @@ li a:hover:not(.active) {
 }
 
 .active {
-  background-color: #444bac;
+  background-color: #0011ff;
 }
 </style>

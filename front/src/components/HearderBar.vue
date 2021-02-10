@@ -20,6 +20,11 @@
 
 <style lang="scss" scoped>
 h1 {
+    color: red;
     font-family: 'Lobster', cursive;
+}
+
+p {
+    font-family: "Lucida Console", "Courier New", monospace;
 }
 </style>
